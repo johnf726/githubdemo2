@@ -17,6 +17,7 @@
 		2DD7F77B27CEAD6400A989F2 /* githubdemo2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DD7F77A27CEAD6400A989F2 /* githubdemo2Tests.swift */; };
 		2DD7F78527CEAD6400A989F2 /* githubdemo2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DD7F78427CEAD6400A989F2 /* githubdemo2UITests.swift */; };
 		2DD7F78727CEAD6400A989F2 /* githubdemo2UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DD7F78627CEAD6400A989F2 /* githubdemo2UITestsLaunchTests.swift */; };
+		90BD2A5C27CEBFF9001680F2 /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90BD2A5B27CEBFF9001680F2 /* TableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		2DD7F78027CEAD6400A989F2 /* githubdemo2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = githubdemo2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2DD7F78427CEAD6400A989F2 /* githubdemo2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = githubdemo2UITests.swift; sourceTree = "<group>"; };
 		2DD7F78627CEAD6400A989F2 /* githubdemo2UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = githubdemo2UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		90BD2A5B27CEBFF9001680F2 /* TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				2DD7F76E27CEAD6400A989F2 /* LaunchScreen.storyboard */,
 				2DD7F77127CEAD6400A989F2 /* Info.plist */,
 				2DD7F76927CEAD6300A989F2 /* githubdemo2.xcdatamodeld */,
+				90BD2A5B27CEBFF9001680F2 /* TableViewCell.swift */,
 			);
 			path = githubdemo2;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				90BD2A5C27CEBFF9001680F2 /* TableViewCell.swift in Sources */,
 				2DD7F76527CEAD6300A989F2 /* ViewController.swift in Sources */,
 				2DD7F76127CEAD6300A989F2 /* AppDelegate.swift in Sources */,
 				2DD7F76B27CEAD6300A989F2 /* githubdemo2.xcdatamodeld in Sources */,
